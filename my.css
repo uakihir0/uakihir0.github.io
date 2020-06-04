@@ -1,0 +1,8 @@
+/** アバターを丸加工に変更 */
+.avatar {    
+    border-radius: 50%;
+}
+
+.image img {
+    object-fit: cover;
+}
